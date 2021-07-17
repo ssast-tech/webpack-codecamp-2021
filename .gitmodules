@@ -1,0 +1,8 @@
+[submodule "public/examples/simple-webpack-proj"]
+	path = public/examples/simple-webpack-proj
+	url = https://github.com/panda2134/simple-webpack-proj
+[submodule "public/examples/webpack-conf1"]
+	path = public/examples/webpack-conf1
+	url = https://github.com/panda2134/simple-webpack-proj
+	branch = conf
+
