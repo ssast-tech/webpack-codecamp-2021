@@ -2,6 +2,7 @@
 theme: seriph
 highlighter: shiki
 download: true
+colorSchema: dark
 layout: image-right
 themeConfig: {'primary': '#8dd6f9'}
 image: /img/webpack.svg
@@ -224,8 +225,8 @@ console.log(a);
   <span>Tested on Internet Explorer 8 & Windows XP.</span>
   <a href="https://github.com/panda2134/polyfill-example"><mdi-github style="display:inline;" /></a>
 
-  <img src="/img/winxp_ie8_no_polyfill.png" alt="IE8 on Windows XP with no polyfill" style="width:60%;">
-  <img src="/img/winxp_ie8_polyfill.png" alt="IE8 on Windows XP with core-js polyfill" style="width:60%;">
+  <img src="/img/winxp_ie8_no_polyfill.png" alt="IE8 on Windows XP with no polyfill" style="width:40%;">
+  <img src="/img/winxp_ie8_polyfill.png" alt="IE8 on Windows XP with core-js polyfill" style="width:40%;">
 
 </v-click>
 
@@ -575,9 +576,9 @@ Checkout the project code [here](https://github.com/panda2134/simple-webpack-pro
 
 - 🎯 [RequireJS](https://requirejs.org/). Who cares about it now?
 - ⚙️ [Asynchronous Module Definition](https://github.com/amdjs/amdjs-api). [UMD](https://github.com/umdjs/umd), which is based on it, is still used by some today
-- ⚙️ [CommonJS in Node.js](https://nodejs.org/api/modules.html)
-- ⚙️ [ES2015 Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- ⚙️ [CommonJS in Node.js](https://nodejs.org/api/modules.html).
+- ⚙️ [ES2015 Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules).
 - 🌊 [HTTP/1.x Connection Management](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Connection_management_in_HTTP_1.x). Important if you want your site to load faster
 - 📦 [Webpack](https://webpack.js.org/). Official Website & Documentation
-- ↔️ [Babel](https://babeljs.io/)
+- ↔️ [Babel](https://babeljs.io/).
 - 🤔 [CanIUse](https://caniuse.com/). Useful place of browser compatibility data
