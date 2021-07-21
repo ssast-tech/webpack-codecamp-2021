@@ -2,9 +2,9 @@
 theme: seriph
 highlighter: shiki
 download: true
-colorSchema: dark
+colorSchema: light
 layout: image-right
-themeConfig: {'primary': '#8dd6f9'}
+themeConfig: {'primary': '#6db6e9'}
 image: /img/webpack.svg
 class: 'flex flex-col justify-center'
 title: 'Webpack - SSAST 2021 Summer Codecamp'
